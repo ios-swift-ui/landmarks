@@ -1,9 +1,3 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-A view that presents a map of a landmark.
-*/
 
 import SwiftUI
 import MapKit
