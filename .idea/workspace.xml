@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a299ec10-635d-4837-a422-ca5a00ff7079" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Landmarks.xcodeproj/xcuserdata/zawmoehtike.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Landmarks.xcodeproj/xcuserdata/zawmoehtike.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarks/Views/Category/CategoryHome.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarks/Views/Category/CategoryItem.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarks/Views/Category/CategoryRow.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landmarks.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Landmarks.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landmarks/Model/Landmark.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Landmarks/Model/Landmark.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landmarks/Model/ModelData.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Landmarks/Model/ModelData.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landmarks/Views/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Landmarks/Views/ContentView.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -32,6 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,6 +51,9 @@
       <option name="presentableId" value="Default" />
       <updated>1640519044796</updated>
       <workItem from="1640519046377" duration="54000" />
+      <workItem from="1640613402670" duration="317000" />
+      <workItem from="1640613743668" duration="25000" />
+      <workItem from="1640613883350" duration="35000" />
     </task>
     <servers />
   </component>
