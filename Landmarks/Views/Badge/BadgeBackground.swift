@@ -37,7 +37,11 @@ struct BadgeBackground: View {
                         )
                     )
                 }
-            }
+            }.fill(.linearGradient(
+                Gradient(colors: [Self.gradientStart, Self.gradientEnd]),
+                startPoint: UnitPoint(x: 0.5, y: 0),
+                endPoint: UnitPoint(x: 0.5, y: 0.6)
+            ))
         }
         .aspectRatio(1, contentMode: .fit)
     }

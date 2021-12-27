@@ -2,9 +2,12 @@
 import SwiftUI
 
 struct ContentView: View {
+    var hikes: [Hike] = ModelData().hikes
+    
     var body: some View {
-        LandmarkList()
+        //LandmarkList()
         //Badge()
+        HikeView(hike: hikes[0])
     }
 }
 
